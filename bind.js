@@ -1,4 +1,4 @@
-window.onload = function() {
+
  
     var min = 6000;
     var max = 10000;
@@ -8,5 +8,3 @@ window.onload = function() {
     setTimeout(function(){
         document.getElementById("continuelink").click();
     },randU);
- 
-};
